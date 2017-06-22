@@ -7,7 +7,7 @@ body {
 p{ 
 	font-size: 1em;
 	margin:0;
-	color: gray;
+	color: white;
 }
 a{
 	text-decoration:none;
@@ -64,7 +64,7 @@ a{
 	display: inline-block;
 	float: right;
 	width: 15%;
-	height: 50%;
+	height: 100%;
 	border: 2px solid white;
 }
 
@@ -95,6 +95,7 @@ a{
 #container1{
 	width: 100%;
 	height: 38em;
+	white-space: nowrap;
 }
 #centerbarheader{
 	margin-bottom: 3en;
@@ -173,7 +174,7 @@ a{
 	margin-left: 5%;
 	margin-right: 5%;
 	padding-top: 1em;
-	padding-left: 4%;
+	padding-left: 5%;
 	padding-bottom: 1em;
 	width:45%;
 	height: 48em;
