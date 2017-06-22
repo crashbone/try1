@@ -34,7 +34,7 @@ a{
 #logo{
 	width: 6em;
 	height: 6em;
-	background-image:  url("../img/Lineage2.png");
+	background-image:  url("../img/lineage2.png");
 	background-size: 100% 100%;
 	display: inline-block;
 	
@@ -173,9 +173,9 @@ a{
 	margin-left: 5%;
 	margin-right: 5%;
 	padding-top: 1em;
-	padding-left: 5em;
+	padding-left: 4%;
 	padding-bottom: 1em;
-	width:49%;
+	width:45%;
 	height: 48em;
 	background-color: #444444;
 	border: 3px solid white;
